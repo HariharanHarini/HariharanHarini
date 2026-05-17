@@ -1,107 +1,79 @@
-## Hi there 👋
-
-# Hi there, I'm **Harini Hariharan**! 👋
+<h1 align="center">Hi, I'm Harini Hariharan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0099FF&width=435&lines=Data+Analyst;Software+Engineer;AI+%26+Analytics+Enthusiast" alt="Animated Typing">
+  <b>Data Scientist & Software Engineer</b> — Python · SQL · Machine Learning · Power BI · FastAPI<br>
+  Oracle OCI Certified · B.Tech CSE 2025 · Building AI-powered real-world applications
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harinihariharan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:harinihariharan0107@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=HariharanHarini&color=1A3C5E&style=flat"/>
 </p>
 
 ---
 
-## 🌟 About Me
+## 🚀 About Me
 
-> **Driven by data, powered by curiosity.**
->
-> Passionate about leveraging AI and analytics to solve real-world problems and drive business value.
-
-I'm a 2025 B. Tech graduate in Computer Science & Engineering from Tirupati, India. Skilled in Python, T-SQL, Power BI, Azure Data Factory, and SQL Server Management Studio, I love building ML models, ETL/ELT pipelines, and interactive dashboards. I value reusability, documentation, and teamwork!
-
----
-
-## 🚀 Skills & Tools
-
-[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](#)
-[![T-SQL](https://img.shields.io/badge/-T--SQL-0081C9?logo=sql&logoColor=white)](#)
-[![SQL Server Management Studio](https://img.shields.io/badge/-SQL%20Server%20Management%20Studio-CC2927?logo=microsoftsqlserver&logoColor=white)](#)
-[![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=white)](#)
-[![Azure Data Factory](https://img.shields.io/badge/-Azure%20Data%20Factory-0078D4?logo=microsoftazure&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)](#)
-[![Advanced MS Excel](https://img.shields.io/badge/-Advanced%20MS%20Excel-217346?logo=microsoft-excel&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](#)
-[![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)](#)
-[![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)](#)
-[![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](#)
-[![ETL/ELT Processes](https://img.shields.io/badge/-ETL%2FELT%20Processes-009688?logo=data&logoColor=white)](#)
-[![Data Modelling](https://img.shields.io/badge/-Data%20Modelling-4CAF50?logo=model&logoColor=white)](#)
-[![Stakeholder Collaboration](https://img.shields.io/badge/-Stakeholder%20Collaboration-FF9800?logo=users&logoColor=white)](#)
-[![Client Requirement Gathering](https://img.shields.io/badge/-Client%20Requirement%20Gathering-9C27B0?logo=clipboard&logoColor=white)](#)
-[![Critical Thinking](https://img.shields.io/badge/-Critical%20Thinking-607D8B?logo=brain&logoColor=white)](#)
-[![Adaptability](https://img.shields.io/badge/-Adaptability-FFC107?logo=change&logoColor=white)](#)
+- 🎓 B.Tech Computer Science & Engineering — NBKRIST, Tirupati (CGPA 8.06)
+- 💼 10 months industry experience across data analytics and Python development
+- 🤖 Currently building **DataTalk** — a real-time AI-powered data analysis platform (FastAPI + LLaMA 3.3 + React)
+- 🏅 Oracle OCI Certified: Data Science Professional & Generative AI Professional
+- 📍 Nellore, India — open to opportunities
 
 ---
 
-## 💼 Experience
+## 🛠️ Tech Stack
 
-- **Koncept CADD, Bangalore** *(Data Analyst Intern, 2025)*  
-  Analyzed customer churn, built predictive ML models, optimized SQL queries, and created Power BI dashboards in an agile team.
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?logo=microsoftsqlserver&logoColor=white)
 
-- **Codealpha, Remote** *(Python Developer Intern, 2024)*  
-  Developed Python scripts reducing file processing time, implemented reusable backend components, and cleaned datasets using Pandas.
+**ML & Data**
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 
----
+**Web & APIs**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
-## 🏆 Projects
-
-### 📊 Customer Churn Prediction
-- Built an ML model in Python & Scikit-learn (89% accuracy)
-- Power BI dashboards reduced churn rate by 15%
-- Documented and tested workflows for reliability
-
-### 🛒 Age-Based Purchase Analysis
-- Designed Power BI dashboards segmenting purchase behaviors
-- Optimized SQL queries (10% faster execution)
-- Collaborated with stakeholders for requirements
-
----
-
-## 📜 Certifications
-
-| 🏅 | Certification |
-|---|---|
-| 🟢 | Oracle OCI Generative AI 2025 Professional |
-| 🟢 | Oracle OCI Data Science Professional |
-| 🟢 | FreeCodeCamp Scientific Computing with Python |
-| 🟢 | Cisco Introduction to Data Science |
-| 🟢 | Let's Upgrade Excel Bootcamp |
+**BI & Cloud**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?logo=microsoftazure&logoColor=white)
+![Oracle OCI](https://img.shields.io/badge/Oracle%20OCI-F80000?logo=oracle&logoColor=white)
 
 ---
 
-## 🌐 Languages
+## 📌 Featured Projects
 
-- **English** (Fluent) | **Telugu** (Native) | **Hindi** (Intermediate) | **Tamil** (Fluent)
-
----
-
-## 🎓 Education
-
-- **B. Tech in Computer Science & Engineering**  
-  N.B.K.R.I.S.T, Tirupati, AP *2021-2025* **8.06 GPA**
-- **Intermediate (MPC)**  
-  Sri Chaitanya, Nellore, AP *2019-2021* **9.22 GPA**
-- **10th**  
-  Sai Chaithanya E.M. School, Nellore, AP *2019* **9.3 GPA**
+| Project | Stack | Highlights |
+|---|---|---|
+| [🤖 DataTalk](https://github.com/HariharanHarini/DataTalk) | FastAPI · LLaMA 3.3 · React · Pandas | Real-time AI data analysis · sub-2s response · 5 REST endpoints |
+| [📉 Customer Churn Prediction](https://github.com/HariharanHarini/customer-churn-prediction) | Python · Scikit-learn · Power BI · SQL | 89% accuracy · SMOTE balancing · interactive dashboard |
+| [🛒 Age-Based Purchase Analysis](https://github.com/HariharanHarini/Age_based_purchase_analysis_project-) | T-SQL · Power BI · Excel | Window functions · 10% query speedup · KPI dashboard |
 
 ---
 
-## 🤝 Connect with Me
+## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harini-hariharan-)
-[![GitHub](https://img.shields.io/badge/GitHub-%40HariharanHarini-black?logo=github&logoColor=white)](https://github.com/HariharanHarini)
-[![Gmail](https://img.shields.io/badge/Gmail-harinihariharan0107%40gmail.com-red?logo=gmail&logoColor=white)](mailto:harinihariharan0107@gmail.com)
-📍 Nellore, India | 📱 +91 82478 10034
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HariharanHarini&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariharanHarini&layout=compact&theme=default&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🏅 Certifications
+
+- ✅ Oracle OCI Data Science Professional (2025)
+- ✅ Oracle OCI Generative AI Professional (2025)
+- ✅ Scientific Computing with Python — freeCodeCamp
+- ✅ Introduction to Data Science — Cisco Networking Academy
 
 ---
 
 <p align="center">
-  <b>🌱 Always learning. Always growing. Let's connect and build something amazing together!</b>
+  <i>Open to Data Science, ML Engineering, and Software Engineering roles. Let's connect!</i>
 </p>
